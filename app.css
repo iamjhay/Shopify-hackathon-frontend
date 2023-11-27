@@ -1073,6 +1073,12 @@ button:focus {
 
   .notification > .profile-detail .profile-initials {
     margin-right: 0px;
+    margin-top: 1px;
+    border: 2px solid var(--nav-grey-50);
+  }
+
+  .notification {
+    gap: 4px;
   }
 
   .notification-icon {
