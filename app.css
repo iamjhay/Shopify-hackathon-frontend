@@ -376,6 +376,7 @@ button:focus {
   font-weight: 500;
   line-height: 140%;
   flex-grow: 1;
+  width: 100%;
 }
 
 .search input:focus {
